@@ -19,7 +19,7 @@ below section.
 
 **Conclusion**
 After obtaining both State Space equations, finding gains at the specified locations using the 
-pole placement and Linear Quadratic Regulator methods, plotting the results and determining 
+pole placement and Linear/Quadratic Regulator methods, plotting the results and determining 
 the settling times of both approaches, it is now possible to draw a conclusion and determine 
 which system should be applied to the self-balancing robot. Based upon the above results and 
 analysis, the Linear-Quadratic Regulator method would be the superior choice for 
